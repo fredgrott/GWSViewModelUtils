@@ -1,7 +1,9 @@
 GWSViewModelUtils
 ==================
 
-View-Model Utils
+View-Model Utils. The State Machine and Dynamo are connected to the plain old java Observer and Observable.
+If you need the Google DataBinding Observable or the RxJava Observable please see those
+libraries, ie GWSGDBViewModelUtils or GWSRxJavaViewModelUtils.
 
 
 Usage
